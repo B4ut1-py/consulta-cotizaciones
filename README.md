@@ -41,7 +41,7 @@ pip install streamlit requests pandas beautifulsoup4 openpyxl urllib3
 
 Ejecuta la aplicación:
 
-streamlit run app.py
+streamlit run _📈_Consulta de cotizaciones.py
 
 
 En la primera ejecución, la aplicación te pedirá buscar o crear un archivo Excel de destino. ¡Luego se actualizará de forma autónoma!
